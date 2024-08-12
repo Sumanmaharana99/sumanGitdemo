@@ -4,3 +4,7 @@ Learning Git and Github
 Author-Suman maharana
 <br>
 info-Readme uses basic html tags
+<br>
+Adding new text via local computer
+<br>
+Initially all files are (new file)untracked/(change)modified->add(staged/staging area)->commit(unchanged/final)
